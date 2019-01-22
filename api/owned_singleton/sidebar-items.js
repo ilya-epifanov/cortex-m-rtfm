@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Singleton","An owned singleton: a proxy (handle) for a `static mut` variable"]]});
